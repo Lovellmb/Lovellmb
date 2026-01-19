@@ -13,10 +13,10 @@
 
 ---
 
-**Langues and Skills**
+🔸**Langues and Skills**
 Java, JavaScript, Python, C++, HTML, CSS, SQL, PHP, SAS, Linux
 
-**Tools & Platforms**
+🔸**Tools & Platforms**
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -36,7 +36,7 @@ Java, JavaScript, Python, C++, HTML, CSS, SQL, PHP, SAS, Linux
 
 ---
 
-## Contact Me
+## 🔸Contact Me
 - Email: Lovellmb@miamioh.edu
 - Linkedin: https://www.linkedin.com/in/maxblovell/
 ---
