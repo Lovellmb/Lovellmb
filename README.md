@@ -36,7 +36,7 @@ Java, JavaScript, Python, C++, HTML, CSS, SQL, PHP, SAS, Linux
 
 ---
 
-## 🔸Contact Me
+## Contact Me
 - Email: Lovellmb@miamioh.edu
 - Linkedin: https://www.linkedin.com/in/maxblovell/
 ---
